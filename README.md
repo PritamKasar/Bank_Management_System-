@@ -31,4 +31,4 @@ This is a simple **C++ Bank Management System** that allows users to perform bas
 3. Run the executable file and follow the on-screen instructions to interact with the system.
 
 ## Example
-![Bank Management System](images/bank_system_screenshot.png)
+![Bank Management System](images/1.png)
